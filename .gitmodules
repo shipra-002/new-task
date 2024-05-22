@@ -1,0 +1,3 @@
+[submodule "new-task/frontend/notes-app"]
+	path = new-task/frontend/notes-app
+	url = https://github.com/shipra-002/new-task.git
